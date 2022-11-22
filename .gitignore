@@ -1,0 +1,7 @@
+/lib/
+/node_modules/
+.parcel-cache
+/dist/
+/public/
+/out/
+*-lock.*
